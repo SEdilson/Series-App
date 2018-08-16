@@ -1,0 +1,49 @@
+{
+  "series": [
+    {
+      "id": 2,
+      "name": "Friends",
+      "foto": "https://clubedeamigas.files.wordpress.com/2012/06/friends_001.jpg",
+      "status": "watching",
+      "genre": "Comédia",
+      "comment": "I'll be there for you"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "foto": "http://2.bp.blogspot.com/-LjgWxUljo6A/UlylLGBmV1I/AAAAAAAAFaI/P_cJLmo4RdU/s1600/breaking-bad-season-1.jpg",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "foto": "http://gifimage.net/wp-content/uploads/2018/05/saul-goodman-gif-6.gif",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "id": 6,
+      "name": "Van Helsing",
+      "foto": "https://art-s.nflximg.net/8a661/6ad4650ef5e4a8e05a49777ac9773f8ecca8a661.jpg",
+      "status": "watching",
+      "genre": "Ação",
+      "comment": "Van Helsing"
+    },
+    {
+      "name": "Doutor House",
+      "foto": "https://cdn.suwalls.com/wallpapers/tv-shows/house-12862-400x250.jpg",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Doutor House",
+      "id": 7
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
